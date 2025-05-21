@@ -1,4 +1,4 @@
-package gophpobj
+package phpobj
 
 import (
 	"bytes"
